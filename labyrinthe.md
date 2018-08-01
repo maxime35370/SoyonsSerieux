@@ -5,6 +5,36 @@ Un rat dans un labyrinthe a besoin d'aide pour s'orienter :
 * Du fromage
 * Des fleches de couleur
 
+______N__N
+______NNNN__NN
+_____N_NNNNNNNNNN
+____N_NNNNNNNNNNNNNN
+____NNN0NNNNNNNNNNNNN
+____NNNNNNNNNNNNNNNNNNN
+___NNNNNNNNNNNNNNNNNNNNNN
+__NNNNNNN___NNNNNNNNNNNNNNN
+__NNNN_______NNNNNNNNNNNNNNNNNNN
+__NNN________NNNNNNNNNNNNNNNNNNNNN___NNNNNNN
+____________NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN__NNN
+____________NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+____________NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN____NNNNNNN
+_______NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN________NNN
+_____NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN________NNN
+____NN____NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN_________NNN
+___NN________NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN___________NNN
+___NN______NNNNNNNNNNN__NNNNNNNN___NNNNNNN_____________NNNN
+__NN_______NN______________________NNNNNN_______________NNNNN
+__NN________NN____________________NNNNNNN
+__NN_________NNNNNN_______________NNNNNNNN
+__NN____________________________NNNN___NNN
+______________________________NNNNN____NNN
+__________________________NNNNN_________NN
+_________________________NNN___________NN
+_______________________NNN____________NN
+______________________________________NN
+____________________________________NNN
+
+
                                  |\    /|
                               ___| \,,/_/
                            ---__/ \/    \
@@ -57,3 +87,4 @@ Un rat dans un labyrinthe a besoin d'aide pour s'orienter :
 ::##::##########::##::##::##::##########::##::::::##::######::##
 ::::::::::::::::::##::##::##::##::::::##::::::::::##::##::::::##
 ####################::##::##::######::##::::::::::######::######`
+
