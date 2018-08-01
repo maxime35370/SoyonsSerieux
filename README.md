@@ -1,1 +1,1 @@
-# planATroie (Projet DTA)
+# SoyonsSerieux (Projet DTA)
